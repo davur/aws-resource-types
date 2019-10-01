@@ -1,0 +1,5 @@
+get-config
+get-dataflow-endpoint-group
+get-minute-usage
+get-mission-profile
+get-satellite

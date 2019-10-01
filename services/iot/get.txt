@@ -1,0 +1,11 @@
+get-effective-policies
+get-indexing-configuration
+get-job-document
+get-logging-options
+get-ota-update
+get-policy
+get-policy-version
+get-registration-code
+get-statistics
+get-topic-rule
+get-v2-logging-options

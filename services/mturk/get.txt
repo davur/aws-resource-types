@@ -1,0 +1,6 @@
+get-account-balance
+get-assignment
+get-file-upload-url
+get-hit
+get-qualification-score
+get-qualification-type

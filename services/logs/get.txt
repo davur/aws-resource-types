@@ -1,0 +1,4 @@
+get-log-events
+get-log-group-fields
+get-log-record
+get-query-results

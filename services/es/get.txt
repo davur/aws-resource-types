@@ -1,0 +1,3 @@
+get-compatible-elasticsearch-versions
+get-upgrade-history
+get-upgrade-status

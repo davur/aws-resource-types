@@ -1,0 +1,1 @@
+get-scaling-plan-resource-forecast-data

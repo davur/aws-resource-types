@@ -1,0 +1,5 @@
+get-admin-account
+get-compliance-detail
+get-notification-channel
+get-policy
+get-protection-status

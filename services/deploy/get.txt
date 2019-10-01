@@ -1,0 +1,7 @@
+get-application
+get-application-revision
+get-deployment
+get-deployment-config
+get-deployment-group
+get-deployment-target
+get-on-premises-instance

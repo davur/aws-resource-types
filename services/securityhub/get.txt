@@ -1,0 +1,7 @@
+get-enabled-standards
+get-findings
+get-insight-results
+get-insights
+get-invitations-count
+get-master-account
+get-members

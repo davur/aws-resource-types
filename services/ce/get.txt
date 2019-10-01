@@ -1,0 +1,7 @@
+get-cost-and-usage
+get-cost-forecast
+get-dimension-values
+get-reservation-coverage
+get-reservation-purchase-recommendation
+get-reservation-utilization
+get-tags

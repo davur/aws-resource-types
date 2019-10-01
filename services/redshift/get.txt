@@ -1,0 +1,2 @@
+get-cluster-credentials
+get-reserved-node-exchange-offerings

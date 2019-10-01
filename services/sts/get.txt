@@ -1,0 +1,3 @@
+get-caller-identity
+get-federation-token
+get-session-token

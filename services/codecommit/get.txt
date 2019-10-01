@@ -1,0 +1,13 @@
+get-blob
+get-branch
+get-comment
+get-comments-for-compared-commit
+get-comments-for-pull-request
+get-commit
+get-differences
+get-file
+get-folder
+get-merge-conflicts
+get-pull-request
+get-repository
+get-repository-triggers

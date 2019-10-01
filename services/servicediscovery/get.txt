@@ -1,0 +1,5 @@
+get-instance
+get-instances-health-status
+get-namespace
+get-operation
+get-service

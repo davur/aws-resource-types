@@ -1,0 +1,4 @@
+get-member
+get-network
+get-node
+get-proposal

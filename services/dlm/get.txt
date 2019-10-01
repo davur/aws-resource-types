@@ -1,0 +1,2 @@
+get-lifecycle-policies
+get-lifecycle-policy

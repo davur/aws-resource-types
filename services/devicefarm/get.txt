@@ -1,0 +1,16 @@
+get-account-settings
+get-device
+get-device-instance
+get-device-pool
+get-device-pool-compatibility
+get-instance-profile
+get-job
+get-network-profile
+get-offering-status
+get-project
+get-remote-access-session
+get-run
+get-suite
+get-test
+get-upload
+get-vpce-configuration

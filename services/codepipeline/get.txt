@@ -1,0 +1,5 @@
+get-job-details
+get-pipeline
+get-pipeline-execution
+get-pipeline-state
+get-third-party-job-details

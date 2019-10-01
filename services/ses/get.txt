@@ -1,0 +1,10 @@
+get-account-sending-enabled
+get-custom-verification-email-template
+get-identity-dkim-attributes
+get-identity-mail-from-domain-attributes
+get-identity-notification-attributes
+get-identity-policies
+get-identity-verification-attributes
+get-send-quota
+get-send-statistics
+get-template

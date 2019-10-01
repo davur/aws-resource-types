@@ -1,0 +1,7 @@
+get-app
+get-app-launch-configuration
+get-app-replication-configuration
+get-connectors
+get-replication-jobs
+get-replication-runs
+get-servers

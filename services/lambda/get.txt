@@ -1,0 +1,9 @@
+get-account-settings
+get-alias
+get-event-source-mapping
+get-function
+get-function-configuration
+get-layer-version
+get-layer-version-by-arn
+get-layer-version-policy
+get-policy

@@ -1,0 +1,8 @@
+get-backup-plan
+get-backup-plan-from-json
+get-backup-plan-from-template
+get-backup-selection
+get-backup-vault-access-policy
+get-backup-vault-notifications
+get-recovery-point-restore-metadata
+get-supported-resource-types

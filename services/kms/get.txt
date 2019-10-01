@@ -1,0 +1,3 @@
+get-key-policy
+get-key-rotation-status
+get-parameters-for-import

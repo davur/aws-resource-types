@@ -1,0 +1,13 @@
+get-address-book
+get-conference-preference
+get-conference-provider
+get-contact
+get-device
+get-gateway
+get-gateway-group
+get-invitation-configuration
+get-network-profile
+get-profile
+get-room
+get-room-skill-parameter
+get-skill-group

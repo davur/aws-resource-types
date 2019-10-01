@@ -1,0 +1,6 @@
+get-authorization-token
+get-download-url-for-layer
+get-lifecycle-policy
+get-lifecycle-policy-preview
+get-login
+get-repository-policy

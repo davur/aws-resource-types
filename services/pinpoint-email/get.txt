@@ -1,0 +1,11 @@
+get-account
+get-blacklist-reports
+get-configuration-set
+get-configuration-set-event-destinations
+get-dedicated-ip
+get-dedicated-ips
+get-deliverability-dashboard-options
+get-deliverability-test-report
+get-domain-deliverability-campaign
+get-domain-statistics-report
+get-email-identity

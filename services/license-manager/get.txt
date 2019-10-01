@@ -1,0 +1,2 @@
+get-license-configuration
+get-service-settings

@@ -1,0 +1,3 @@
+get-bulk-publish-details
+get-cognito-events
+get-identity-pool-configuration

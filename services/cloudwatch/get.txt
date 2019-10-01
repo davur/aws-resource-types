@@ -1,0 +1,4 @@
+get-dashboard
+get-metric-data
+get-metric-statistics
+get-metric-widget-image

@@ -1,0 +1,2 @@
+get-queue-attributes
+get-queue-url

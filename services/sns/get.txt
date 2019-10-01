@@ -1,0 +1,5 @@
+get-endpoint-attributes
+get-platform-application-attributes
+get-sms-attributes
+get-subscription-attributes
+get-topic-attributes
