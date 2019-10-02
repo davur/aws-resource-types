@@ -16,6 +16,7 @@ events
 hsm-client-certificates
 hsm-configurations
 logging-status
+node-configuration-options
 orderable-cluster-options
 reserved-node-exchange-offerings
 reserved-node-offerings

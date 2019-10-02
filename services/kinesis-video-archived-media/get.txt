@@ -1,2 +1,3 @@
+get-dash-streaming-session-url
 get-hls-streaming-session-url
 get-media-for-fragment-list

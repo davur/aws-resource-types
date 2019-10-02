@@ -1,3 +1,4 @@
+get-capacity-reservation-usage
 get-console-output
 get-console-screenshot
 get-ebs-default-kms-key-id

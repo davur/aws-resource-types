@@ -12,5 +12,6 @@ list-rules
 list-size-constraint-sets
 list-sql-injection-match-sets
 list-subscribed-rule-groups
+list-tags-for-resource
 list-web-acls
 list-xss-match-sets

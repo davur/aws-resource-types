@@ -2,4 +2,5 @@ list-activity-types
 list-closed-workflow-executions
 list-domains
 list-open-workflow-executions
+list-tags-for-resource
 list-workflow-types

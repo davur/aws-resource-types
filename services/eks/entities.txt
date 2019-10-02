@@ -1,5 +1,6 @@
 cluster
 clusters
+tags-for-resource
 token
 update
 updates

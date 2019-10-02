@@ -10,5 +10,6 @@ ip-set
 ip-sets
 master-account
 members
+tags-for-resource
 threat-intel-set
 threat-intel-sets

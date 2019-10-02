@@ -2,3 +2,4 @@ list-crawlers
 list-dev-endpoints
 list-jobs
 list-triggers
+list-workflows

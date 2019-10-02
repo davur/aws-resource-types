@@ -1,0 +1,1 @@
+get-block-public-access-configuration

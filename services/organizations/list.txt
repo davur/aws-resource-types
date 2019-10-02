@@ -10,4 +10,5 @@ list-parents
 list-policies
 list-policies-for-target
 list-roots
+list-tags-for-resource
 list-targets-for-policy

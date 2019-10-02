@@ -21,3 +21,4 @@ get-route-responses
 get-routes
 get-stage
 get-stages
+get-tags

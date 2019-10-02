@@ -1,3 +1,4 @@
+block-public-access-configuration
 cluster
 clusters
 instance-fleets

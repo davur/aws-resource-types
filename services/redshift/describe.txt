@@ -15,6 +15,7 @@ describe-events
 describe-hsm-client-certificates
 describe-hsm-configurations
 describe-logging-status
+describe-node-configuration-options
 describe-orderable-cluster-options
 describe-reserved-node-offerings
 describe-reserved-nodes

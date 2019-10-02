@@ -4,4 +4,6 @@ dimension-values
 reservation-coverage
 reservation-purchase-recommendation
 reservation-utilization
+rightsizing-recommendation
 tags
+usage-forecast

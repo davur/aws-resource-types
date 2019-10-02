@@ -1,3 +1,4 @@
+pending-invitation-resources
 principals
 resource-policies
 resource-share-associations

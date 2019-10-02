@@ -16,6 +16,7 @@ describe-customer-gateways
 describe-dhcp-options
 describe-egress-only-internet-gateways
 describe-elastic-gpus
+describe-export-image-tasks
 describe-export-tasks
 describe-fleet-history
 describe-fleet-instances
@@ -72,6 +73,9 @@ describe-spot-price-history
 describe-stale-security-groups
 describe-subnets
 describe-tags
+describe-traffic-mirror-filters
+describe-traffic-mirror-sessions
+describe-traffic-mirror-targets
 describe-transit-gateway-attachments
 describe-transit-gateway-route-tables
 describe-transit-gateway-vpc-attachments

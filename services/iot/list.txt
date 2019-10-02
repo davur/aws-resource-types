@@ -1,6 +1,8 @@
 list-active-violations
 list-attached-policies
 list-audit-findings
+list-audit-mitigation-actions-executions
+list-audit-mitigation-actions-tasks
 list-audit-tasks
 list-authorizers
 list-billing-groups
@@ -11,6 +13,7 @@ list-indices
 list-job-executions-for-job
 list-job-executions-for-thing
 list-jobs
+list-mitigation-actions
 list-ota-updates
 list-outgoing-certificates
 list-policies

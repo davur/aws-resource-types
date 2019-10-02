@@ -6,5 +6,6 @@ describe-tags
 describe-workspace-bundles
 describe-workspace-directories
 describe-workspace-images
+describe-workspace-snapshots
 describe-workspaces
 describe-workspaces-connection-status

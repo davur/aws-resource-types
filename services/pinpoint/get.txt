@@ -4,11 +4,13 @@ get-apns-sandbox-channel
 get-apns-voip-channel
 get-apns-voip-sandbox-channel
 get-app
+get-application-date-range-kpi
 get-application-settings
 get-apps
 get-baidu-channel
 get-campaign
 get-campaign-activities
+get-campaign-date-range-kpi
 get-campaign-version
 get-campaign-versions
 get-campaigns

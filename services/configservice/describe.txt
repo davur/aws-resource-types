@@ -10,7 +10,10 @@ describe-configuration-recorder-status
 describe-configuration-recorders
 describe-delivery-channel-status
 describe-delivery-channels
+describe-organization-config-rule-statuses
+describe-organization-config-rules
 describe-pending-aggregation-requests
 describe-remediation-configurations
+describe-remediation-exceptions
 describe-remediation-execution-status
 describe-retention-configurations

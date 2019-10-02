@@ -1,0 +1,10 @@
+application
+applications
+component
+component-configuration
+component-configuration-recommendation
+components
+observation
+problem
+problem-observations
+problems

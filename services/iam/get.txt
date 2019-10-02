@@ -10,6 +10,7 @@ get-group-policy
 get-instance-profile
 get-login-profile
 get-open-id-connect-provider
+get-organizations-access-report
 get-policy
 get-policy-version
 get-role

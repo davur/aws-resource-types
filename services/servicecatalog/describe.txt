@@ -11,4 +11,5 @@ describe-provisioning-artifact
 describe-provisioning-parameters
 describe-record
 describe-service-action
+describe-service-action-execution-parameters
 describe-tag-option

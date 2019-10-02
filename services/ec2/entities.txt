@@ -4,6 +4,7 @@ aggregate-id-format
 availability-zones
 bundle-tasks
 byoip-cidrs
+capacity-reservation-usage
 capacity-reservations
 classic-link-instances
 client-vpn-authorization-rules
@@ -20,6 +21,7 @@ ebs-default-kms-key-id
 ebs-encryption-by-default
 egress-only-internet-gateways
 elastic-gpus
+export-image-tasks
 export-tasks
 fleet-history
 fleet-instances
@@ -80,6 +82,9 @@ spot-price-history
 stale-security-groups
 subnets
 tags
+traffic-mirror-filters
+traffic-mirror-sessions
+traffic-mirror-targets
 transit-gateway-attachment-propagations
 transit-gateway-attachments
 transit-gateway-route-table-associations

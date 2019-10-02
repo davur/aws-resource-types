@@ -4,11 +4,13 @@ apns-sandbox-channel
 apns-voip-channel
 apns-voip-sandbox-channel
 app
+application-date-range-kpi
 application-settings
 apps
 baidu-channel
 campaign
 campaign-activities
+campaign-date-range-kpi
 campaign-version
 campaign-versions
 campaigns

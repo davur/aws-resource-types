@@ -1,0 +1,7 @@
+describe-application
+describe-component
+describe-component-configuration
+describe-component-configuration-recommendation
+describe-observation
+describe-problem
+describe-problem-observations

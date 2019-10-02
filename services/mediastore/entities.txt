@@ -3,3 +3,4 @@ container-policy
 containers
 cors-policy
 lifecycle-policy
+tags-for-resource

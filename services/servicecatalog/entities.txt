@@ -26,6 +26,7 @@ record
 record-history
 resources-for-tag-option
 service-action
+service-action-execution-parameters
 service-actions
 service-actions-for-provisioning-artifact
 stack-instances-for-provisioned-product

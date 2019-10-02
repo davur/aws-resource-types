@@ -1,4 +1,6 @@
 describe-account-audit-configuration
+describe-audit-finding
+describe-audit-mitigation-actions-task
 describe-audit-task
 describe-authorizer
 describe-billing-group
@@ -10,6 +12,7 @@ describe-event-configurations
 describe-index
 describe-job
 describe-job-execution
+describe-mitigation-action
 describe-role-alias
 describe-scheduled-audit
 describe-security-profile

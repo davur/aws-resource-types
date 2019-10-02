@@ -7,5 +7,6 @@ get-compliance-details-by-resource
 get-compliance-summary-by-config-rule
 get-compliance-summary-by-resource-type
 get-discovered-resource-counts
+get-organization-config-rule-detailed-status
 get-resource-config-history
 get-status

@@ -1,2 +1,4 @@
 describe-event-bus
+describe-event-source
+describe-partner-event-source
 describe-rule

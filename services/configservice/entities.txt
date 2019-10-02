@@ -21,8 +21,12 @@ delivery-channel-status
 delivery-channels
 discovered-resource-counts
 discovered-resources
+organization-config-rule-detailed-status
+organization-config-rule-statuses
+organization-config-rules
 pending-aggregation-requests
 remediation-configurations
+remediation-exceptions
 remediation-execution-status
 resource-config-history
 retention-configurations

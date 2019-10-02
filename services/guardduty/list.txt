@@ -4,4 +4,5 @@ list-findings
 list-invitations
 list-ip-sets
 list-members
+list-tags-for-resource
 list-threat-intel-sets

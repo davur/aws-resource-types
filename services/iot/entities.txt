@@ -1,7 +1,11 @@
 account-audit-configuration
 active-violations
 attached-policies
+audit-finding
 audit-findings
+audit-mitigation-actions-executions
+audit-mitigation-actions-task
+audit-mitigation-actions-tasks
 audit-task
 audit-tasks
 authorizer
@@ -27,6 +31,8 @@ job-executions-for-job
 job-executions-for-thing
 jobs
 logging-options
+mitigation-action
+mitigation-actions
 ota-update
 ota-updates
 outgoing-certificates

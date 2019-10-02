@@ -6,6 +6,7 @@ apigateway
 apigatewaymanagementapi
 apigatewayv2
 application-autoscaling
+application-insights
 appmesh
 appstream
 appsync
@@ -54,6 +55,7 @@ ds
 dynamodb
 dynamodbstreams
 ec2
+ec2-instance-connect
 ecr
 ecs
 efs
@@ -68,6 +70,8 @@ es
 events
 firehose
 fms
+forecast
+forecastquery
 fsx
 gamelift
 glacier
@@ -99,6 +103,7 @@ kinesisanalytics
 kinesisanalyticsv2
 kinesisvideo
 kms
+lakeformation
 lambda
 lex-models
 lex-runtime
@@ -127,12 +132,17 @@ neptune
 opsworks
 opsworks-cm
 organizations
+personalize
+personalize-events
+personalize-runtime
 pi
 pinpoint
 pinpoint-email
 pinpoint-sms-voice
 polly
 pricing
+qldb
+qldb-session
 quicksight
 ram
 rds
@@ -154,6 +164,7 @@ sdb
 secretsmanager
 securityhub
 serverlessrepo
+service-quotas
 servicecatalog
 servicediscovery
 ses
@@ -178,5 +189,6 @@ waf-regional
 workdocs
 worklink
 workmail
+workmailmessageflow
 workspaces
 xray

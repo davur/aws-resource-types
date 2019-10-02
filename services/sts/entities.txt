@@ -1,3 +1,4 @@
+access-key-info
 caller-identity
 federation-token
 session-token

@@ -44,6 +44,9 @@ maintenance-window-task
 maintenance-window-tasks
 maintenance-windows
 maintenance-windows-for-target
+ops-item
+ops-items
+ops-summary
 parameter
 parameter-history
 parameters

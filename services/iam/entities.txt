@@ -23,6 +23,7 @@ login-profile
 mfa-devices
 open-id-connect-provider
 open-id-connect-providers
+organizations-access-report
 policies
 policies-granting-service-access
 policy

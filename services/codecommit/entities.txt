@@ -8,7 +8,9 @@ commit
 differences
 file
 folder
+merge-commit
 merge-conflicts
+merge-options
 pull-request
 pull-request-events
 pull-requests

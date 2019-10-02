@@ -1,0 +1,11 @@
+association-for-service-quota-template
+aws-default-service-quota
+aws-default-service-quotas
+requested-service-quota-change
+requested-service-quota-change-history
+requested-service-quota-change-history-by-quota
+service-quota
+service-quota-increase-request-from-template
+service-quota-increase-requests-in-template
+service-quotas
+services

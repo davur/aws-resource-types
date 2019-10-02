@@ -4,6 +4,7 @@ closed-workflow-executions
 domain
 domains
 open-workflow-executions
+tags-for-resource
 workflow-execution
 workflow-execution-history
 workflow-type

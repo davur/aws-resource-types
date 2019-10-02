@@ -3,6 +3,7 @@ agents
 location-efs
 location-nfs
 location-s3
+location-smb
 locations
 tags-for-resource
 task

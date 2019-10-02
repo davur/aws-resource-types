@@ -1,0 +1,6 @@
+list-aws-default-service-quotas
+list-requested-service-quota-change-history
+list-requested-service-quota-change-history-by-quota
+list-service-quota-increase-requests-in-template
+list-service-quotas
+list-services

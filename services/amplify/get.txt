@@ -1,4 +1,6 @@
 get-app
+get-artifact-url
 get-branch
 get-domain-association
 get-job
+get-webhook

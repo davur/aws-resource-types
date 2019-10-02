@@ -1,0 +1,4 @@
+entities-detection-v2-job
+entities-detection-v2-jobs
+phi-detection-job
+phi-detection-jobs

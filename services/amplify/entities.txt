@@ -1,8 +1,13 @@
 app
 apps
+artifact-url
+artifacts
 branch
 branches
 domain-association
 domain-associations
 job
 jobs
+tags-for-resource
+webhook
+webhooks

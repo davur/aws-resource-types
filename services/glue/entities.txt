@@ -13,10 +13,15 @@ dataflow-graph
 dev-endpoint
 dev-endpoints
 job
+job-bookmark
 job-run
 job-runs
 jobs
 mapping
+ml-task-run
+ml-task-runs
+ml-transform
+ml-transforms
 partition
 partitions
 plan
@@ -32,3 +37,8 @@ trigger
 triggers
 user-defined-function
 user-defined-functions
+workflow
+workflow-run
+workflow-run-properties
+workflow-runs
+workflows

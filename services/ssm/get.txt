@@ -11,6 +11,8 @@ get-maintenance-window-execution
 get-maintenance-window-execution-task
 get-maintenance-window-execution-task-invocation
 get-maintenance-window-task
+get-ops-item
+get-ops-summary
 get-parameter
 get-parameter-history
 get-parameters

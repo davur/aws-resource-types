@@ -1,3 +1,4 @@
+certificates
 db-cluster-parameter-groups
 db-cluster-parameters
 db-cluster-snapshot-attributes

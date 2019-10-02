@@ -1,6 +1,7 @@
 alarm-history
 alarms
 alarms-for-metric
+anomaly-detectors
 dashboard
 dashboards
 metric-data

@@ -1,4 +1,10 @@
 event-bus
+event-buses
+event-source
+event-sources
+partner-event-source
+partner-event-source-accounts
+partner-event-sources
 rule
 rule-names-by-target
 rules

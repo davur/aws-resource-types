@@ -15,4 +15,5 @@ policies
 policies-for-target
 policy
 roots
+tags-for-resource
 targets-for-policy

@@ -1,2 +1,3 @@
 list-clusters
+list-tags-for-resource
 list-updates

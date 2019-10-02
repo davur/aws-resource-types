@@ -7,5 +7,6 @@ tags
 workspace-bundles
 workspace-directories
 workspace-images
+workspace-snapshots
 workspaces
 workspaces-connection-status

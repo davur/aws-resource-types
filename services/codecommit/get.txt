@@ -7,7 +7,9 @@ get-commit
 get-differences
 get-file
 get-folder
+get-merge-commit
 get-merge-conflicts
+get-merge-options
 get-pull-request
 get-repository
 get-repository-triggers

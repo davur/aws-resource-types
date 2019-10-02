@@ -4,4 +4,6 @@ get-dimension-values
 get-reservation-coverage
 get-reservation-purchase-recommendation
 get-reservation-utilization
+get-rightsizing-recommendation
 get-tags
+get-usage-forecast
