@@ -1,0 +1,6 @@
+principals
+resource-policies
+resource-share-associations
+resource-share-invitations
+resource-shares
+resources

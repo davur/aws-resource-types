@@ -1,0 +1,17 @@
+describe-bandwidth-rate-limit
+describe-cache
+describe-cached-iscsi-volumes
+describe-chap-credentials
+describe-gateway-information
+describe-maintenance-start-time
+describe-nfs-file-shares
+describe-smb-file-shares
+describe-smb-settings
+describe-snapshot-schedule
+describe-stored-iscsi-volumes
+describe-tape-archives
+describe-tape-recovery-points
+describe-tapes
+describe-upload-buffer
+describe-vtl-devices
+describe-working-storage

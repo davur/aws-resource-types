@@ -1,0 +1,10 @@
+encryption-config
+group
+groups
+sampling-rules
+sampling-statistic-summaries
+sampling-targets
+service-graph
+time-series-service-statistics
+trace-graph
+trace-summaries

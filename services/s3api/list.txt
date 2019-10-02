@@ -1,0 +1,9 @@
+list-bucket-analytics-configurations
+list-bucket-inventory-configurations
+list-bucket-metrics-configurations
+list-buckets
+list-multipart-uploads
+list-object-versions
+list-objects
+list-objects-v2
+list-parts

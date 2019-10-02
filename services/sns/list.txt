@@ -1,0 +1,7 @@
+list-endpoints-by-platform-application
+list-phone-numbers-opted-out
+list-platform-applications
+list-subscriptions
+list-subscriptions-by-topic
+list-tags-for-resource
+list-topics

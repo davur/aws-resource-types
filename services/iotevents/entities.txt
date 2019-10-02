@@ -1,0 +1,7 @@
+detector-model
+detector-model-versions
+detector-models
+input
+inputs
+logging-options
+tags-for-resource

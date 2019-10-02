@@ -1,0 +1,5 @@
+device
+device-events
+device-methods
+devices
+tags-for-resource

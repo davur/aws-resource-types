@@ -1,0 +1,7 @@
+project
+projects
+resources
+tags-for-project
+team-members
+user-profile
+user-profiles

@@ -1,0 +1,13 @@
+associated-fleets
+associated-stacks
+directory-configs
+fleets
+image-builders
+image-permissions
+images
+sessions
+stacks
+tags-for-resource
+usage-report-subscriptions
+user-stack-associations
+users

@@ -1,0 +1,5 @@
+list-available-zones
+list-hapgs
+list-hsms
+list-luna-clients
+list-tags-for-resource

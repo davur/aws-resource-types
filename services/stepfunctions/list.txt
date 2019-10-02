@@ -1,0 +1,4 @@
+list-activities
+list-executions
+list-state-machines
+list-tags-for-resource

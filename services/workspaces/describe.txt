@@ -1,0 +1,10 @@
+describe-account
+describe-account-modifications
+describe-client-properties
+describe-ip-groups
+describe-tags
+describe-workspace-bundles
+describe-workspace-directories
+describe-workspace-images
+describe-workspaces
+describe-workspaces-connection-status

@@ -1,0 +1,4 @@
+compute-environments
+job-definitions
+job-queues
+jobs

@@ -1,0 +1,5 @@
+list-projects
+list-resources
+list-tags-for-project
+list-team-members
+list-user-profiles

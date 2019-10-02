@@ -1,0 +1,8 @@
+describe-analysis-schemes
+describe-availability-options
+describe-domains
+describe-expressions
+describe-index-fields
+describe-scaling-parameters
+describe-service-access-policies
+describe-suggesters

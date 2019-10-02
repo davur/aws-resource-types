@@ -1,0 +1,8 @@
+bulk-publish-details
+cognito-events
+dataset
+datasets
+identity-pool-configuration
+identity-pool-usage
+identity-usage
+records

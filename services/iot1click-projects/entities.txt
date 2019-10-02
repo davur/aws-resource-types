@@ -1,0 +1,6 @@
+devices-in-placement
+placement
+placements
+project
+projects
+tags-for-resource

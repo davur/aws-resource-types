@@ -1,0 +1,5 @@
+lexicon
+lexicons
+speech-synthesis-task
+speech-synthesis-tasks
+voices

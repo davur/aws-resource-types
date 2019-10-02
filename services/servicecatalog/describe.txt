@@ -1,0 +1,14 @@
+describe-constraint
+describe-copy-product-status
+describe-portfolio
+describe-portfolio-share-status
+describe-product
+describe-product-as-admin
+describe-product-view
+describe-provisioned-product
+describe-provisioned-product-plan
+describe-provisioning-artifact
+describe-provisioning-parameters
+describe-record
+describe-service-action
+describe-tag-option

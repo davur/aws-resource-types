@@ -1,0 +1,8 @@
+list-aliases
+list-group-members
+list-groups
+list-mailbox-permissions
+list-organizations
+list-resource-delegates
+list-resources
+list-users

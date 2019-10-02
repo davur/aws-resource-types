@@ -1,0 +1,10 @@
+credentials-for-identity
+id
+identities
+identity
+identity-pool
+identity-pool-roles
+identity-pools
+open-id-token
+open-id-token-for-developer-identity
+tags-for-resource

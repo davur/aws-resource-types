@@ -1,0 +1,5 @@
+describe-channel
+describe-dataset
+describe-datastore
+describe-logging-options
+describe-pipeline

@@ -1,0 +1,12 @@
+endpoint-attributes
+endpoints-by-platform-application
+phone-numbers-opted-out
+platform-application-attributes
+platform-applications
+sms-attributes
+subscription-attributes
+subscriptions
+subscriptions-by-topic
+tags-for-resource
+topic-attributes
+topics

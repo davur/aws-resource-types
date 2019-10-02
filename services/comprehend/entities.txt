@@ -1,0 +1,17 @@
+document-classification-job
+document-classification-jobs
+document-classifier
+document-classifiers
+dominant-language-detection-job
+dominant-language-detection-jobs
+entities-detection-job
+entities-detection-jobs
+entity-recognizer
+entity-recognizers
+key-phrases-detection-job
+key-phrases-detection-jobs
+sentiment-detection-job
+sentiment-detection-jobs
+tags-for-resource
+topics-detection-job
+topics-detection-jobs

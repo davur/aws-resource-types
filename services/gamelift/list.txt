@@ -1,0 +1,4 @@
+list-aliases
+list-builds
+list-fleets
+list-scripts

@@ -1,0 +1,11 @@
+bootstrap-brokers
+cluster
+cluster-operation
+cluster-operations
+clusters
+configuration
+configuration-revision
+configuration-revisions
+configurations
+nodes
+tags-for-resource

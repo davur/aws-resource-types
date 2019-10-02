@@ -1,0 +1,13 @@
+deployment-job
+deployment-jobs
+fleet
+fleets
+robot
+robot-application
+robot-applications
+robots
+simulation-application
+simulation-applications
+simulation-job
+simulation-jobs
+tags-for-resource

@@ -1,0 +1,8 @@
+admin-account
+compliance-detail
+compliance-status
+member-accounts
+notification-channel
+policies
+policy
+protection-status

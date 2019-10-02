@@ -1,0 +1,9 @@
+authorization-token
+download-url-for-layer
+images
+lifecycle-policy
+lifecycle-policy-preview
+login
+repositories
+repository-policy
+tags-for-resource

@@ -1,0 +1,12 @@
+celebrity-info
+celebrity-recognition
+collection
+collections
+content-moderation
+face-detection
+face-search
+faces
+label-detection
+person-tracking
+stream-processor
+stream-processors

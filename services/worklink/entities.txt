@@ -1,0 +1,13 @@
+audit-stream-configuration
+company-network-configuration
+device
+device-policy-configuration
+devices
+domain
+domains
+fleet-metadata
+fleets
+identity-provider-configuration
+website-authorization-providers
+website-certificate-authorities
+website-certificate-authority

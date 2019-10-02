@@ -1,0 +1,4 @@
+transcription-job
+transcription-jobs
+vocabularies
+vocabulary

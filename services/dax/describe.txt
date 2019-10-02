@@ -1,0 +1,6 @@
+describe-clusters
+describe-default-parameters
+describe-events
+describe-parameter-groups
+describe-parameters
+describe-subnet-groups

@@ -1,0 +1,6 @@
+list-associations-for-license-configuration
+list-license-configurations
+list-license-specifications-for-resource
+list-resource-inventory
+list-tags-for-resource
+list-usage-for-license-configuration

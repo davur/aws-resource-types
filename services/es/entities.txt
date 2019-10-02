@@ -1,0 +1,13 @@
+compatible-elasticsearch-versions
+domain-names
+elasticsearch-domain
+elasticsearch-domain-config
+elasticsearch-domains
+elasticsearch-instance-type-limits
+elasticsearch-instance-types
+elasticsearch-versions
+reserved-elasticsearch-instance-offerings
+reserved-elasticsearch-instances
+tags
+upgrade-history
+upgrade-status

@@ -1,0 +1,2 @@
+list-secret-version-ids
+list-secrets

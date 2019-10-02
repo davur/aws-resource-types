@@ -1,0 +1,10 @@
+alarm-history
+alarms
+alarms-for-metric
+dashboard
+dashboards
+metric-data
+metric-statistics
+metric-widget-image
+metrics
+tags-for-resource

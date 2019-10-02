@@ -1,0 +1,4 @@
+describe-active-receipt-rule-set
+describe-configuration-set
+describe-receipt-rule
+describe-receipt-rule-set

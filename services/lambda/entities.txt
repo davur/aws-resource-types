@@ -1,0 +1,16 @@
+account-settings
+alias
+aliases
+event-source-mapping
+event-source-mappings
+function
+function-configuration
+functions
+layer-version
+layer-version-by-arn
+layer-version-policy
+layer-versions
+layers
+policy
+tags
+versions-by-function

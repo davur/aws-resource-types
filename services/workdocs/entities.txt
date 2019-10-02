@@ -1,0 +1,16 @@
+activities
+comments
+current-user
+document
+document-path
+document-version
+document-versions
+folder
+folder-contents
+folder-path
+groups
+notification-subscriptions
+resource-permissions
+resources
+root-folders
+users

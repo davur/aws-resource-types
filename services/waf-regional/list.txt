@@ -1,0 +1,16 @@
+list-activated-rules-in-rule-group
+list-byte-match-sets
+list-geo-match-sets
+list-ip-sets
+list-logging-configurations
+list-rate-based-rules
+list-regex-match-sets
+list-regex-pattern-sets
+list-resources-for-web-acl
+list-rule-groups
+list-rules
+list-size-constraint-sets
+list-sql-injection-match-sets
+list-subscribed-rule-groups
+list-web-acls
+list-xss-match-sets

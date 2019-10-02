@@ -1,0 +1,13 @@
+describe-account-attributes
+describe-application-versions
+describe-applications
+describe-configuration-options
+describe-configuration-settings
+describe-environment-health
+describe-environment-managed-action-history
+describe-environment-managed-actions
+describe-environment-resources
+describe-environments
+describe-events
+describe-instances-health
+describe-platform-version

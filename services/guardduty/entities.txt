@@ -1,0 +1,14 @@
+detector
+detectors
+filter
+filters
+findings
+findings-statistics
+invitations
+invitations-count
+ip-set
+ip-sets
+master-account
+members
+threat-intel-set
+threat-intel-sets

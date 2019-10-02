@@ -1,0 +1,4 @@
+list-instances
+list-namespaces
+list-operations
+list-services

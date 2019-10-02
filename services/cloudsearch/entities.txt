@@ -1,0 +1,9 @@
+analysis-schemes
+availability-options
+domain-names
+domains
+expressions
+index-fields
+scaling-parameters
+service-access-policies
+suggesters

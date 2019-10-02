@@ -1,0 +1,3 @@
+describe-environment-memberships
+describe-environment-status
+describe-environments

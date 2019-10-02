@@ -1,0 +1,3 @@
+list-associated-fleets
+list-associated-stacks
+list-tags-for-resource

@@ -1,0 +1,3 @@
+list-datasets
+list-identity-pool-usage
+list-records

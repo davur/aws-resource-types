@@ -1,0 +1,13 @@
+conditional-forwarders
+directories
+directory-limits
+domain-controllers
+event-topics
+ip-routes
+log-subscriptions
+schema-extensions
+shared-directories
+snapshot-limits
+snapshots
+tags-for-resource
+trusts

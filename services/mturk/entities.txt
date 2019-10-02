@@ -1,0 +1,16 @@
+account-balance
+assignment
+assignments-for-hit
+bonus-payments
+file-upload-url
+hit
+hits
+hits-for-qualification-type
+qualification-requests
+qualification-score
+qualification-type
+qualification-types
+review-policy-results-for-hit
+reviewable-hits
+worker-blocks
+workers-with-qualification-type

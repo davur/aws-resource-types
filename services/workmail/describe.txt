@@ -1,0 +1,4 @@
+describe-group
+describe-organization
+describe-resource
+describe-user

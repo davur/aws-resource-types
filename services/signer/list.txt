@@ -1,0 +1,3 @@
+list-signing-jobs
+list-signing-platforms
+list-signing-profiles

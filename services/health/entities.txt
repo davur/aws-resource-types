@@ -1,0 +1,6 @@
+affected-entities
+entity-aggregates
+event-aggregates
+event-details
+event-types
+events

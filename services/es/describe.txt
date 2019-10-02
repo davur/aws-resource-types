@@ -1,0 +1,6 @@
+describe-elasticsearch-domain
+describe-elasticsearch-domain-config
+describe-elasticsearch-domains
+describe-elasticsearch-instance-type-limits
+describe-reserved-elasticsearch-instance-offerings
+describe-reserved-elasticsearch-instances

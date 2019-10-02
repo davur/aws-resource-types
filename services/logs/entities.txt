@@ -1,0 +1,13 @@
+destinations
+export-tasks
+log-events
+log-group-fields
+log-groups
+log-record
+log-streams
+metric-filters
+queries
+query-results
+resource-policies
+subscription-filters
+tags-log-group

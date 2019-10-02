@@ -1,0 +1,13 @@
+aliases
+group
+group-members
+groups
+mailbox-details
+mailbox-permissions
+organization
+organizations
+resource
+resource-delegates
+resources
+user
+users

@@ -1,0 +1,3 @@
+scaling-plan-resource-forecast-data
+scaling-plan-resources
+scaling-plans

@@ -1,0 +1,4 @@
+list-branches
+list-pull-requests
+list-repositories
+list-tags-for-resource

@@ -1,0 +1,6 @@
+describe-clusters
+describe-container-instances
+describe-services
+describe-task-definition
+describe-task-sets
+describe-tasks

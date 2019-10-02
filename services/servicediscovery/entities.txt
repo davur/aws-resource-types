@@ -1,0 +1,9 @@
+instance
+instances
+instances-health-status
+namespace
+namespaces
+operation
+operations
+service
+services

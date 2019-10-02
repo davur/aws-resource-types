@@ -1,0 +1,6 @@
+list-configuration-sets
+list-dedicated-ip-pools
+list-deliverability-test-reports
+list-domain-deliverability-campaigns
+list-email-identities
+list-tags-for-resource

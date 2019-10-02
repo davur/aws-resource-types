@@ -1,0 +1,7 @@
+list-configuration-sets
+list-custom-verification-email-templates
+list-identities
+list-identity-policies
+list-receipt-filters
+list-receipt-rule-sets
+list-templates

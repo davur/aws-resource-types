@@ -1,0 +1,11 @@
+agent
+agents
+location-efs
+location-nfs
+location-s3
+locations
+tags-for-resource
+task
+task-execution
+task-executions
+tasks

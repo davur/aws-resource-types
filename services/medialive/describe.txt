@@ -1,0 +1,6 @@
+describe-channel
+describe-input
+describe-input-security-group
+describe-offering
+describe-reservation
+describe-schedule

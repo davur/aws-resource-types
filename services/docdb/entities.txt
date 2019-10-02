@@ -1,0 +1,14 @@
+db-cluster-parameter-groups
+db-cluster-parameters
+db-cluster-snapshot-attributes
+db-cluster-snapshots
+db-clusters
+db-engine-versions
+db-instances
+db-subnet-groups
+engine-default-cluster-parameters
+event-categories
+events
+orderable-db-instance-options
+pending-maintenance-actions
+tags-for-resource

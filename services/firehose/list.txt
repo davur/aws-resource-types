@@ -1,0 +1,2 @@
+list-delivery-streams
+list-tags-for-delivery-stream

@@ -1,0 +1,6 @@
+list-aliases
+list-grants
+list-key-policies
+list-keys
+list-resource-tags
+list-retirable-grants

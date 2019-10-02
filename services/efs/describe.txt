@@ -1,0 +1,5 @@
+describe-file-systems
+describe-lifecycle-configuration
+describe-mount-target-security-groups
+describe-mount-targets
+describe-tags

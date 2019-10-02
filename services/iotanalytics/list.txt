@@ -1,0 +1,6 @@
+list-channels
+list-dataset-contents
+list-datasets
+list-datastores
+list-pipelines
+list-tags-for-resource

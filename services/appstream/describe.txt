@@ -1,0 +1,10 @@
+describe-directory-configs
+describe-fleets
+describe-image-builders
+describe-image-permissions
+describe-images
+describe-sessions
+describe-stacks
+describe-usage-report-subscriptions
+describe-user-stack-associations
+describe-users

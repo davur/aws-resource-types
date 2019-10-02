@@ -1,0 +1,5 @@
+list-agents
+list-locations
+list-tags-for-resource
+list-task-executions
+list-tasks

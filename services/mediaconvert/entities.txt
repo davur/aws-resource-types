@@ -1,0 +1,10 @@
+endpoints
+job
+job-template
+job-templates
+jobs
+preset
+presets
+queue
+queues
+tags-for-resource

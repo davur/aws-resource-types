@@ -1,0 +1,9 @@
+list-cloud-front-origin-access-identities
+list-distributions
+list-distributions-by-web-acl-id
+list-field-level-encryption-configs
+list-field-level-encryption-profiles
+list-invalidations
+list-public-keys
+list-streaming-distributions
+list-tags-for-resource

@@ -1,0 +1,4 @@
+list-named-queries
+list-query-executions
+list-tags-for-resource
+list-work-groups

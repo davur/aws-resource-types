@@ -1,0 +1,16 @@
+account-attributes
+application-versions
+applications
+available-solution-stacks
+configuration-options
+configuration-settings
+environment-health
+environment-managed-action-history
+environment-managed-actions
+environment-resources
+environments
+events
+instances-health
+platform-version
+platform-versions
+tags-for-resource

@@ -1,0 +1,4 @@
+describe-scalable-targets
+describe-scaling-activities
+describe-scaling-policies
+describe-scheduled-actions

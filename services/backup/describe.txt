@@ -1,0 +1,5 @@
+describe-backup-job
+describe-backup-vault
+describe-protected-resource
+describe-recovery-point
+describe-restore-job

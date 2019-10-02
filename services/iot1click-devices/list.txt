@@ -1,0 +1,3 @@
+list-device-events
+list-devices
+list-tags-for-resource

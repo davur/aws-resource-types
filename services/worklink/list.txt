@@ -1,0 +1,5 @@
+list-devices
+list-domains
+list-fleets
+list-website-authorization-providers
+list-website-certificate-authorities

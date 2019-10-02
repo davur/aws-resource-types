@@ -1,0 +1,4 @@
+list-apps
+list-branches
+list-domain-associations
+list-jobs

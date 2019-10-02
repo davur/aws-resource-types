@@ -1,0 +1,16 @@
+allowed-node-type-modifications
+cache-clusters
+cache-engine-versions
+cache-parameter-groups
+cache-parameters
+cache-security-groups
+cache-subnet-groups
+engine-default-parameters
+events
+replication-groups
+reserved-cache-nodes
+reserved-cache-nodes-offerings
+service-updates
+snapshots
+tags-for-resource
+update-actions

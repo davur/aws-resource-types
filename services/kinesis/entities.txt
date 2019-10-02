@@ -1,0 +1,10 @@
+limits
+records
+shard-iterator
+shards
+stream
+stream-consumer
+stream-consumers
+stream-summary
+streams
+tags-for-stream

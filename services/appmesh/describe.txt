@@ -1,0 +1,5 @@
+describe-mesh
+describe-route
+describe-virtual-node
+describe-virtual-router
+describe-virtual-service

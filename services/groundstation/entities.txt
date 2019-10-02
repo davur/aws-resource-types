@@ -1,0 +1,13 @@
+config
+configs
+contact
+contacts
+dataflow-endpoint-group
+dataflow-endpoint-groups
+ground-stations
+minute-usage
+mission-profile
+mission-profiles
+satellite
+satellites
+tags-for-resource

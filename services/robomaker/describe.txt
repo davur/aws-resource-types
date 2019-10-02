@@ -1,0 +1,6 @@
+describe-deployment-job
+describe-fleet
+describe-robot
+describe-robot-application
+describe-simulation-application
+describe-simulation-job

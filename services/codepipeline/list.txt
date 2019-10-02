@@ -1,0 +1,6 @@
+list-action-executions
+list-action-types
+list-pipeline-executions
+list-pipelines
+list-tags-for-resource
+list-webhooks

@@ -1,0 +1,4 @@
+describe-activity-type
+describe-domain
+describe-workflow-execution
+describe-workflow-type

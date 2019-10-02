@@ -1,0 +1,14 @@
+describe-cache-clusters
+describe-cache-engine-versions
+describe-cache-parameter-groups
+describe-cache-parameters
+describe-cache-security-groups
+describe-cache-subnet-groups
+describe-engine-default-parameters
+describe-events
+describe-replication-groups
+describe-reserved-cache-nodes
+describe-reserved-cache-nodes-offerings
+describe-service-updates
+describe-snapshots
+describe-update-actions

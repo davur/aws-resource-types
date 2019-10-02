@@ -1,0 +1,14 @@
+assessment-report
+assessment-run-agents
+assessment-runs
+assessment-targets
+assessment-templates
+cross-account-access-role
+event-subscriptions
+exclusions
+exclusions-preview
+findings
+resource-groups
+rules-packages
+tags-for-resource
+telemetry-metadata

@@ -1,0 +1,3 @@
+list-application-dependencies
+list-application-versions
+list-applications

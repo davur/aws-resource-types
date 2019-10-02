@@ -1,0 +1,8 @@
+describe-document-classification-job
+describe-document-classifier
+describe-dominant-language-detection-job
+describe-entities-detection-job
+describe-entity-recognizer
+describe-key-phrases-detection-job
+describe-sentiment-detection-job
+describe-topics-detection-job

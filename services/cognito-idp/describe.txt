@@ -1,0 +1,7 @@
+describe-identity-provider
+describe-resource-server
+describe-risk-configuration
+describe-user-import-job
+describe-user-pool
+describe-user-pool-client
+describe-user-pool-domain

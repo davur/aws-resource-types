@@ -1,0 +1,9 @@
+list-change-sets
+list-exports
+list-imports
+list-stack-instances
+list-stack-resources
+list-stack-set-operation-results
+list-stack-set-operations
+list-stack-sets
+list-stacks

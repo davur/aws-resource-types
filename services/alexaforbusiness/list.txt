@@ -1,0 +1,10 @@
+list-business-report-schedules
+list-conference-providers
+list-device-events
+list-gateway-groups
+list-gateways
+list-skills
+list-skills-store-categories
+list-skills-store-skills-by-category
+list-smart-home-appliances
+list-tags

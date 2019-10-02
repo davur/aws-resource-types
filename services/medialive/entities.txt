@@ -1,0 +1,12 @@
+channel
+channels
+input
+input-security-group
+input-security-groups
+inputs
+offering
+offerings
+reservation
+reservations
+schedule
+tags-for-resource

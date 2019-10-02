@@ -1,0 +1,7 @@
+describe-conditional-forwarders
+describe-directories
+describe-domain-controllers
+describe-event-topics
+describe-shared-directories
+describe-snapshots
+describe-trusts

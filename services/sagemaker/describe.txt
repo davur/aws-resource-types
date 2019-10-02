@@ -1,0 +1,15 @@
+describe-algorithm
+describe-code-repository
+describe-compilation-job
+describe-endpoint
+describe-endpoint-config
+describe-hyper-parameter-tuning-job
+describe-labeling-job
+describe-model
+describe-model-package
+describe-notebook-instance
+describe-notebook-instance-lifecycle-config
+describe-subscribed-workteam
+describe-training-job
+describe-transform-job
+describe-workteam

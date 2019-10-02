@@ -1,0 +1,8 @@
+app
+apps
+branch
+branches
+domain-association
+domain-associations
+job
+jobs

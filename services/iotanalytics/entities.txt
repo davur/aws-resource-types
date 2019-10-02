@@ -1,0 +1,12 @@
+channel
+channels
+dataset
+dataset-content
+dataset-contents
+datasets
+datastore
+datastores
+logging-options
+pipeline
+pipelines
+tags-for-resource

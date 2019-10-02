@@ -1,0 +1,5 @@
+application
+application-snapshot
+application-snapshots
+applications
+tags-for-resource

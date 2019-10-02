@@ -1,0 +1,4 @@
+list-ip-routes
+list-log-subscriptions
+list-schema-extensions
+list-tags-for-resource

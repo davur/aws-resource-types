@@ -1,0 +1,13 @@
+connections
+direct-connect-gateway-association-proposals
+direct-connect-gateway-associations
+direct-connect-gateway-attachments
+direct-connect-gateways
+hosted-connections
+interconnects
+lags
+loa
+locations
+tags
+virtual-gateways
+virtual-interfaces

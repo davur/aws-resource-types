@@ -1,0 +1,13 @@
+backup
+backups
+continuous-backups
+endpoints
+global-table
+global-table-settings
+global-tables
+item
+limits
+table
+tables
+tags-of-resource
+time-to-live

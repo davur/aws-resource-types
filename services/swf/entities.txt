@@ -1,0 +1,10 @@
+activity-type
+activity-types
+closed-workflow-executions
+domain
+domains
+open-workflow-executions
+workflow-execution
+workflow-execution-history
+workflow-type
+workflow-types

@@ -1,0 +1,4 @@
+describe-limits
+describe-stream
+describe-stream-consumer
+describe-stream-summary

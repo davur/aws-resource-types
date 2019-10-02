@@ -1,0 +1,15 @@
+list-geo-locations
+list-health-checks
+list-hosted-zones
+list-hosted-zones-by-name
+list-query-logging-configs
+list-resource-record-sets
+list-reusable-delegation-sets
+list-tags-for-resource
+list-tags-for-resources
+list-traffic-policies
+list-traffic-policy-instances
+list-traffic-policy-instances-by-hosted-zone
+list-traffic-policy-instances-by-policy
+list-traffic-policy-versions
+list-vpc-association-authorizations

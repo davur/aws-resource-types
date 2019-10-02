@@ -1,0 +1,11 @@
+contact-attributes
+current-metric-data
+federation-token
+metric-data
+routing-profiles
+security-profiles
+user
+user-hierarchy-group
+user-hierarchy-groups
+user-hierarchy-structure
+users

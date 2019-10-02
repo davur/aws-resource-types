@@ -1,0 +1,6 @@
+signing-job
+signing-jobs
+signing-platform
+signing-platforms
+signing-profile
+signing-profiles

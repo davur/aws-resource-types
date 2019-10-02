@@ -1,0 +1,7 @@
+list-detectors
+list-filters
+list-findings
+list-invitations
+list-ip-sets
+list-members
+list-threat-intel-sets

@@ -1,0 +1,8 @@
+describe-audit-stream-configuration
+describe-company-network-configuration
+describe-device
+describe-device-policy-configuration
+describe-domain
+describe-fleet-metadata
+describe-identity-provider-configuration
+describe-website-certificate-authority

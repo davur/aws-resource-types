@@ -1,0 +1,8 @@
+named-queries
+named-query
+query-execution
+query-executions
+query-results
+tags-for-resource
+work-group
+work-groups

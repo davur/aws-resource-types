@@ -1,0 +1,5 @@
+dead-letter-source-queues
+queue-attributes
+queue-tags
+queue-url
+queues

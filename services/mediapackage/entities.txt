@@ -1,0 +1,5 @@
+channel
+channels
+origin-endpoint
+origin-endpoints
+tags-for-resource

@@ -1,0 +1,3 @@
+list-identities
+list-identity-pools
+list-tags-for-resource

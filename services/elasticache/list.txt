@@ -1,0 +1,2 @@
+list-allowed-node-type-modifications
+list-tags-for-resource

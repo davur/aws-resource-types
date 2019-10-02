@@ -1,0 +1,8 @@
+associations-for-license-configuration
+license-configuration
+license-configurations
+license-specifications-for-resource
+resource-inventory
+service-settings
+tags-for-resource
+usage-for-license-configuration

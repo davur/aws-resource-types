@@ -1,0 +1,6 @@
+describe-agents
+describe-configurations
+describe-continuous-exports
+describe-export-tasks
+describe-import-tasks
+describe-tags
