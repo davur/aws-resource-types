@@ -1,11 +1,12 @@
+alarm
 alarm-history
-alarms
 alarms-for-metric
-anomaly-detectors
+anomaly-detector
 dashboard
-dashboards
+insight-rule
+insight-rule-report
+metric
 metric-data
-metric-statistics
+metric-statistic
 metric-widget-image
-metrics
 tags-for-resource

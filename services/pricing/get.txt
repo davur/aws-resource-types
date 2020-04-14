@@ -1,2 +1,0 @@
-get-attribute-values
-get-products

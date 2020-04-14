@@ -1,12 +1,10 @@
 agent
-agents
+location
 location-efs
+location-fsx-window
 location-nfs
 location-s3
 location-smb
-locations
 tags-for-resource
 task
 task-execution
-task-executions
-tasks

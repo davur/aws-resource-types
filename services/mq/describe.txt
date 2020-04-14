@@ -1,6 +1,0 @@
-describe-broker
-describe-broker-engine-types
-describe-broker-instance-options
-describe-configuration
-describe-configuration-revision
-describe-user

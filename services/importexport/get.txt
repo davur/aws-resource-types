@@ -1,2 +1,0 @@
-get-shipping-label
-get-status

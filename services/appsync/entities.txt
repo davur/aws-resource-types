@@ -1,15 +1,11 @@
-api-keys
+api-cache
+api-key
 data-source
-data-sources
 function
-functions
 graphql-api
-graphql-apis
 introspection-schema
 resolver
-resolvers
 resolvers-by-function
 schema-creation-status
 tags-for-resource
 type
-types

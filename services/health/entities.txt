@@ -1,6 +1,11 @@
-affected-entities
-entity-aggregates
-event-aggregates
-event-details
-event-types
-events
+affected-accounts-for-organization
+affected-entities-for-organization
+affected-entity
+entity-aggregate
+event
+event-aggregate
+event-detail
+event-details-for-organization
+event-type
+events-for-organization
+health-service-status-for-organization

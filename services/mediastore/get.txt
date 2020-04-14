@@ -1,3 +1,0 @@
-get-container-policy
-get-cors-policy
-get-lifecycle-policy

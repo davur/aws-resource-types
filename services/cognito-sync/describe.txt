@@ -1,3 +1,0 @@
-describe-dataset
-describe-identity-pool-usage
-describe-identity-usage

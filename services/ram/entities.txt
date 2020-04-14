@@ -1,7 +1,9 @@
-pending-invitation-resources
-principals
-resource-policies
-resource-share-associations
-resource-share-invitations
-resource-shares
-resources
+pending-invitation-resource
+permission
+principal
+resource
+resource-policy
+resource-share
+resource-share-association
+resource-share-invitation
+resource-share-permission

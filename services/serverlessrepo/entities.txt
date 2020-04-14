@@ -1,6 +1,5 @@
 application
-application-dependencies
+application-dependency
 application-policy
-application-versions
-applications
+application-version
 cloud-formation-template

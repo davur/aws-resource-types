@@ -1,5 +1,0 @@
-list-job-templates
-list-jobs
-list-presets
-list-queues
-list-tags-for-resource

@@ -1,11 +1,9 @@
-action-executions
-action-types
-job-details
+action-execution
+action-type
+job-detail
 pipeline
 pipeline-execution
-pipeline-executions
 pipeline-state
-pipelines
 tags-for-resource
-third-party-job-details
-webhooks
+third-party-job-detail
+webhook

@@ -1,4 +1,0 @@
-get-resolver-endpoint
-get-resolver-rule
-get-resolver-rule-association
-get-resolver-rule-policy

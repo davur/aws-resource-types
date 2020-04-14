@@ -1,4 +1,4 @@
 dash-streaming-session-url
-fragments
+fragment
 hls-streaming-session-url
 media-for-fragment-list

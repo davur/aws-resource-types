@@ -1,6 +1,0 @@
-describe-account
-describe-create-account-status
-describe-handshake
-describe-organization
-describe-organizational-unit
-describe-policy

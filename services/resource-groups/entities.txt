@@ -1,5 +1,4 @@
 group
 group-query
-group-resources
-groups
-tags
+group-resource
+tag

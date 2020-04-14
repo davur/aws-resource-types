@@ -1,9 +1,5 @@
 batch-prediction
-batch-predictions
 data-source
-data-sources
 evaluation
-evaluations
 ml-model
-ml-models
-tags
+tag

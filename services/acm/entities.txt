@@ -1,3 +1,2 @@
 certificate
-certificates
 tags-for-certificate

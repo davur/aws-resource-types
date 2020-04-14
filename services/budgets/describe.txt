@@ -1,5 +1,0 @@
-describe-budget
-describe-budget-performance-history
-describe-budgets
-describe-notifications-for-budget
-describe-subscribers-for-notification

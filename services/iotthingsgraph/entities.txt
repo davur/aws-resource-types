@@ -1,11 +1,11 @@
-entities
-flow-execution-messages
+entity
+flow-execution-message
 flow-template
-flow-template-revisions
+flow-template-revision
 namespace
 namespace-deletion-status
 system-instance
 system-template
-system-template-revisions
+system-template-revision
 tags-for-resource
 upload-status

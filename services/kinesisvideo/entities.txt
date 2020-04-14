@@ -1,4 +1,6 @@
 data-endpoint
+signaling-channel
+signaling-channel-endpoint
 stream
-streams
+tags-for-resource
 tags-for-stream

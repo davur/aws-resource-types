@@ -1,2 +1,2 @@
 personalized-ranking
-recommendations
+recommendation

@@ -1,2 +1,0 @@
-list-entities-detection-v2-jobs
-list-phi-detection-jobs

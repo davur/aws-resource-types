@@ -1,3 +1,0 @@
-list-dead-letter-source-queues
-list-queue-tags
-list-queues

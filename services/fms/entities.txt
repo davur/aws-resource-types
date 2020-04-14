@@ -1,8 +1,8 @@
 admin-account
 compliance-detail
 compliance-status
-member-accounts
+member-account
 notification-channel
-policies
 policy
 protection-status
+tags-for-resource

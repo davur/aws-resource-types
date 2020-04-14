@@ -1,11 +1,7 @@
 broker
-broker-engine-types
-broker-instance-options
-brokers
+broker-engine-type
+broker-instance-option
 configuration
 configuration-revision
-configuration-revisions
-configurations
-tags
+tag
 user
-users

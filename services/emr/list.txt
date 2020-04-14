@@ -1,5 +1,0 @@
-list-clusters
-list-instance-fleets
-list-instances
-list-security-configurations
-list-steps

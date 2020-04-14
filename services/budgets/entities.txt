@@ -1,5 +1,4 @@
 budget
 budget-performance-history
-budgets
 notifications-for-budget
 subscribers-for-notification

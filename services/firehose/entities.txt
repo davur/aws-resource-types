@@ -1,3 +1,2 @@
 delivery-stream
-delivery-streams
 tags-for-delivery-stream

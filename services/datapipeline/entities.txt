@@ -1,4 +1,4 @@
-objects
+object
+pipeline
 pipeline-definition
-pipelines
-runs
+run

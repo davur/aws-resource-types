@@ -1,12 +1,13 @@
 celebrity-info
 celebrity-recognition
 collection
-collections
 content-moderation
+face
 face-detection
 face-search
-faces
 label-detection
 person-tracking
+project
+project-version
 stream-processor
-stream-processors
+text-detection

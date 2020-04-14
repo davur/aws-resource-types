@@ -1,2 +1,0 @@
-describe-scaling-plan-resources
-describe-scaling-plans

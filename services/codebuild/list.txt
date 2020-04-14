@@ -1,5 +1,0 @@
-list-builds
-list-builds-for-project
-list-curated-environment-images
-list-projects
-list-source-credentials

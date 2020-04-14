@@ -1,2 +1,0 @@
-get-signing-platform
-get-signing-profile

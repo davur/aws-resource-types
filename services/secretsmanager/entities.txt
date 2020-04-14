@@ -2,5 +2,4 @@ random-password
 resource-policy
 secret
 secret-value
-secret-version-ids
-secrets
+secret-version-id

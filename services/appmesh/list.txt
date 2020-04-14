@@ -1,6 +1,0 @@
-list-meshes
-list-routes
-list-tags-for-resource
-list-virtual-nodes
-list-virtual-routers
-list-virtual-services

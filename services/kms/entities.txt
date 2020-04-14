@@ -1,11 +1,10 @@
-aliases
-custom-key-stores
-grants
+alias
+custom-key-store
+grant
 key
-key-policies
 key-policy
 key-rotation-status
-keys
 parameters-for-import
-resource-tags
-retirable-grants
+public-key
+resource-tag
+retirable-grant

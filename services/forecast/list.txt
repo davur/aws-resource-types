@@ -1,6 +1,0 @@
-list-dataset-groups
-list-dataset-import-jobs
-list-datasets
-list-forecast-export-jobs
-list-forecasts
-list-predictors

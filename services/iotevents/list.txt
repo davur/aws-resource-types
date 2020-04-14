@@ -1,4 +1,0 @@
-list-detector-model-versions
-list-detector-models
-list-inputs
-list-tags-for-resource

@@ -1,8 +1,7 @@
-bulk-publish-details
-cognito-events
+bulk-publish-detail
+cognito-event
 dataset
-datasets
 identity-pool-configuration
 identity-pool-usage
 identity-usage
-records
+record

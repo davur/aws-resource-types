@@ -1,4 +1,0 @@
-get-access-key-info
-get-caller-identity
-get-federation-token
-get-session-token

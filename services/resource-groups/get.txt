@@ -1,3 +1,0 @@
-get-group
-get-group-query
-get-tags

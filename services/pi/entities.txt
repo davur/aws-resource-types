@@ -1,2 +1,2 @@
-dimension-keys
-resource-metrics
+dimension-key
+resource-metric

@@ -1,2 +1,0 @@
-list-lexicons
-list-speech-synthesis-tasks

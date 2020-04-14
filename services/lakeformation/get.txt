@@ -1,2 +1,0 @@
-get-data-lake-settings
-get-effective-permissions-for-path

@@ -1,7 +1,0 @@
-list-deployment-jobs
-list-fleets
-list-robot-applications
-list-robots
-list-simulation-applications
-list-simulation-jobs
-list-tags-for-resource

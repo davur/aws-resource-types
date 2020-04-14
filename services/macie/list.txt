@@ -1,2 +1,0 @@
-list-member-accounts
-list-s3-resources

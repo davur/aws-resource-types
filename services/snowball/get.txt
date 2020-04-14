@@ -1,3 +1,0 @@
-get-job-manifest
-get-job-unlock-code
-get-snowball-usage

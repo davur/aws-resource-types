@@ -1,4 +1,0 @@
-list-enabled-products-for-import
-list-invitations
-list-members
-list-tags-for-resource

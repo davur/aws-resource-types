@@ -1,2 +1,0 @@
-list-configurations
-list-server-neighbors

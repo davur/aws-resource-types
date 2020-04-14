@@ -1,5 +1,0 @@
-list-brokers
-list-configuration-revisions
-list-configurations
-list-tags
-list-users

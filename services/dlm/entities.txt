@@ -1,2 +1,2 @@
-lifecycle-policies
 lifecycle-policy
+tags-for-resource

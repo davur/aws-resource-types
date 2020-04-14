@@ -1,2 +1,0 @@
-list-pipelines
-list-runs

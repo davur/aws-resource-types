@@ -1,5 +1,7 @@
-file-systems
+access-point
+file-system
+file-system-policy
 lifecycle-configuration
-mount-target-security-groups
-mount-targets
-tags
+mount-target
+mount-target-security-group
+tags-for-resource

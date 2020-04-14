@@ -1,4 +1,0 @@
-get-resource-policies
-get-resource-share-associations
-get-resource-share-invitations
-get-resource-shares

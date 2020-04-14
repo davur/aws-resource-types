@@ -1,6 +1,0 @@
-describe-dataset
-describe-dataset-group
-describe-dataset-import-job
-describe-forecast
-describe-forecast-export-job
-describe-predictor

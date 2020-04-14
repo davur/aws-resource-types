@@ -1,8 +1,8 @@
-agents
-configurations
-continuous-exports
+agent
+configuration
+continuous-export
 discovery-summary
-export-tasks
-import-tasks
-server-neighbors
-tags
+export-task
+import-task
+server-neighbor
+tag

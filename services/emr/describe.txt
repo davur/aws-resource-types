@@ -1,3 +1,0 @@
-describe-cluster
-describe-security-configuration
-describe-step

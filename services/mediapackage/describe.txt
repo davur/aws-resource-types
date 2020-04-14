@@ -1,2 +1,0 @@
-describe-channel
-describe-origin-endpoint

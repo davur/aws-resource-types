@@ -1,3 +1,0 @@
-list-application-snapshots
-list-applications
-list-tags-for-resource

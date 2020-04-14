@@ -1,3 +1,0 @@
-get-resources
-get-tag-keys
-get-tag-values

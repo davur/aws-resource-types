@@ -1,6 +1,0 @@
-list-jobs
-list-multipart-uploads
-list-parts
-list-provisioned-capacity
-list-tags-for-vault
-list-vaults

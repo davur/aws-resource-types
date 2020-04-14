@@ -1,9 +1,0 @@
-list-campaigns
-list-dataset-groups
-list-dataset-import-jobs
-list-datasets
-list-event-trackers
-list-recipes
-list-schemas
-list-solution-versions
-list-solutions

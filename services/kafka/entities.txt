@@ -1,11 +1,8 @@
-bootstrap-brokers
+bootstrap-broker
 cluster
 cluster-operation
-cluster-operations
-clusters
 configuration
 configuration-revision
-configuration-revisions
-configurations
-nodes
+kafka-version
+node
 tags-for-resource

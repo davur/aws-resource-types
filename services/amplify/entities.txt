@@ -1,13 +1,9 @@
 app
-apps
+artifact
 artifact-url
-artifacts
+backend-environment
 branch
-branches
 domain-association
-domain-associations
 job
-jobs
 tags-for-resource
 webhook
-webhooks

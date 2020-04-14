@@ -1,8 +1,7 @@
 certificate
-certificate-authorities
 certificate-authority
 certificate-authority-audit-report
 certificate-authority-certificate
 certificate-authority-csr
-permissions
-tags
+permission
+tag

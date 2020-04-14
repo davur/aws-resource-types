@@ -1,8 +1,7 @@
 app
 app-launch-configuration
 app-replication-configuration
-apps
-connectors
-replication-jobs
-replication-runs
-servers
+connector
+replication-job
+replication-run
+server

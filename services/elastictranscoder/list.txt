@@ -1,4 +1,0 @@
-list-jobs-by-pipeline
-list-jobs-by-status
-list-pipelines
-list-presets

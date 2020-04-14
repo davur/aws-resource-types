@@ -1,3 +1,4 @@
-environment-memberships
+environment
+environment-membership
 environment-status
-environments
+tags-for-resource

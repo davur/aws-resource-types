@@ -1,5 +1,4 @@
 channel
-channels
+harvest-job
 origin-endpoint
-origin-endpoints
 tags-for-resource

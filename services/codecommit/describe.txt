@@ -1,2 +1,0 @@
-describe-merge-conflicts
-describe-pull-request-events

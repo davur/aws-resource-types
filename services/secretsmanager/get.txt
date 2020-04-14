@@ -1,3 +1,0 @@
-get-random-password
-get-resource-policy
-get-secret-value

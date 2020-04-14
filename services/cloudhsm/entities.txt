@@ -1,9 +1,6 @@
-available-zones
+available-zone
 config
 hapg
-hapgs
 hsm
-hsms
 luna-client
-luna-clients
 tags-for-resource

@@ -1,2 +1,0 @@
-list-public-keys
-list-tags

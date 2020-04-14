@@ -1,5 +1,12 @@
-builds
+build
 builds-for-project
-curated-environment-images
-projects
-source-credentials
+curated-environment-image
+project
+report
+report-group
+reports-for-report-group
+resource-policy
+shared-project
+shared-report-group
+source-credential
+test-case

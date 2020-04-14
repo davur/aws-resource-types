@@ -1,12 +1,10 @@
 channel
-channels
 input
 input-security-group
-input-security-groups
-inputs
+multiplex
+multiplex-program
+multiplexe
 offering
-offerings
 reservation
-reservations
 schedule
 tags-for-resource

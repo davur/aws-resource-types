@@ -1,5 +1,6 @@
-account-attributes
-backups
-events
+account-attribute
+backup
+event
 node-association-status
-servers
+server
+tags-for-resource

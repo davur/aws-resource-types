@@ -1,9 +1,0 @@
-list-assessment-run-agents
-list-assessment-runs
-list-assessment-targets
-list-assessment-templates
-list-event-subscriptions
-list-exclusions
-list-findings
-list-rules-packages
-list-tags-for-resource

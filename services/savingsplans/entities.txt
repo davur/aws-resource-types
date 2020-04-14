@@ -1,0 +1,5 @@
+savings-plan
+savings-plan-rate
+savings-plans-offering
+savings-plans-offering-rate
+tags-for-resource

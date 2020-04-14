@@ -1,2 +1,2 @@
-terminologies
 terminology
+text-translation-job

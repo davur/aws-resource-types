@@ -1,2 +1,0 @@
-get-activity-task
-get-execution-history

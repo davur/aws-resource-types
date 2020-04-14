@@ -1,2 +1,0 @@
-list-containers
-list-tags-for-resource

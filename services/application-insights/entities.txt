@@ -1,10 +1,11 @@
 application
-applications
 component
 component-configuration
 component-configuration-recommendation
-components
+configuration-history
+log-pattern
+log-pattern-set
 observation
 problem
-problem-observations
-problems
+problem-observation
+tags-for-resource

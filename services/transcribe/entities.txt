@@ -1,4 +1,4 @@
+medical-transcription-job
 transcription-job
-transcription-jobs
-vocabularies
 vocabulary
+vocabulary-filter

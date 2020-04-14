@@ -1,3 +1,0 @@
-list-placements
-list-projects
-list-tags-for-resource

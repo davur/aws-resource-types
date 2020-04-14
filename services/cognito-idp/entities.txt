@@ -1,13 +1,9 @@
 csv-header
 device
-devices
 group
-groups
 identity-provider
 identity-provider-by-identifier
-identity-providers
 resource-server
-resource-servers
 risk-configuration
 signing-certificate
 tags-for-resource
@@ -15,12 +11,8 @@ ui-customization
 user
 user-attribute-verification-code
 user-import-job
-user-import-jobs
 user-pool
 user-pool-client
-user-pool-clients
 user-pool-domain
 user-pool-mfa-config
-user-pools
-users
 users-in-group

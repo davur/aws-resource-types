@@ -1,3 +1,2 @@
 playback-configuration
-playback-configurations
 tags-for-resource

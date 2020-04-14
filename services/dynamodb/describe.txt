@@ -1,8 +1,0 @@
-describe-backup
-describe-continuous-backups
-describe-endpoints
-describe-global-table
-describe-global-table-settings
-describe-limits
-describe-table
-describe-time-to-live

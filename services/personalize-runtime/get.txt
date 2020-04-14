@@ -1,2 +1,0 @@
-get-personalized-ranking
-get-recommendations

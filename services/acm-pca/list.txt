@@ -1,3 +1,0 @@
-list-certificate-authorities
-list-permissions
-list-tags

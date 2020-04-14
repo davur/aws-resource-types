@@ -1,8 +1,8 @@
 associations-for-license-configuration
+failures-for-license-configuration-operation
 license-configuration
-license-configurations
 license-specifications-for-resource
 resource-inventory
-service-settings
+service-setting
 tags-for-resource
 usage-for-license-configuration

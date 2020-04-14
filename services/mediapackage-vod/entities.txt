@@ -1,6 +1,3 @@
 asset
-assets
 packaging-configuration
-packaging-configurations
 packaging-group
-packaging-groups

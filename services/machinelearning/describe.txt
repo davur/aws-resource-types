@@ -1,5 +1,0 @@
-describe-batch-predictions
-describe-data-sources
-describe-evaluations
-describe-ml-models
-describe-tags

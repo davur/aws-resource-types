@@ -1,7 +1,0 @@
-list-apps
-list-artifacts
-list-branches
-list-domain-associations
-list-jobs
-list-tags-for-resource
-list-webhooks

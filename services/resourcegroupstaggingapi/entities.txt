@@ -1,3 +1,5 @@
-resources
-tag-keys
-tag-values
+compliance-summary
+report-creation
+resource
+tag-key
+tag-value

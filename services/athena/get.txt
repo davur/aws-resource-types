@@ -1,4 +1,0 @@
-get-named-query
-get-query-execution
-get-query-results
-get-work-group

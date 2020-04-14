@@ -1,9 +1,6 @@
 block-public-access-configuration
 cluster
-clusters
-instance-fleets
-instances
+instance
+instance-fleet
 security-configuration
-security-configurations
 step
-steps

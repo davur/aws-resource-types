@@ -1,3 +1,0 @@
-get-game-session-log
-get-game-session-log-url
-get-instance-access

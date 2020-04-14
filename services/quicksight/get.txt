@@ -1,1 +1,0 @@
-get-dashboard-embed-url

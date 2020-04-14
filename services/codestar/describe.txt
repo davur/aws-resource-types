@@ -1,2 +1,0 @@
-describe-project
-describe-user-profile

@@ -1,3 +1,4 @@
-backups
-file-systems
+backup
+data-repository-task
+file-system
 tags-for-resource

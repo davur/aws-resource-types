@@ -1,5 +1,0 @@
-get-credentials-for-identity
-get-id
-get-identity-pool-roles
-get-open-id-token
-get-open-id-token-for-developer-identity

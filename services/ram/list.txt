@@ -1,3 +1,0 @@
-list-pending-invitation-resources
-list-principals
-list-resources

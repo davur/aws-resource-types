@@ -1,6 +1,6 @@
 container
 container-policy
-containers
 cors-policy
 lifecycle-policy
+metric-policy
 tags-for-resource

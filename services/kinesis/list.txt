@@ -1,4 +1,0 @@
-list-shards
-list-stream-consumers
-list-streams
-list-tags-for-stream

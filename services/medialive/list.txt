@@ -1,6 +1,0 @@
-list-channels
-list-input-security-groups
-list-inputs
-list-offerings
-list-reservations
-list-tags-for-resource

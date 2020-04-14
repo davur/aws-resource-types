@@ -1,3 +1,0 @@
-get-application
-get-application-policy
-get-cloud-formation-template

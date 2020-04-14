@@ -1,7 +1,0 @@
-describe-agent
-describe-location-efs
-describe-location-nfs
-describe-location-s3
-describe-location-smb
-describe-task
-describe-task-execution

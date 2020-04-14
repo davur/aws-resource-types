@@ -1,8 +1,0 @@
-list-file-shares
-list-gateways
-list-local-disks
-list-tags-for-resource
-list-tapes
-list-volume-initiators
-list-volume-recovery-points
-list-volumes

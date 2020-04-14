@@ -1,3 +1,0 @@
-list-compliance-status
-list-member-accounts
-list-policies

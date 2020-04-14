@@ -1,4 +1,4 @@
-scalable-targets
-scaling-activities
-scaling-policies
-scheduled-actions
+scalable-target
+scaling-activity
+scaling-policy
+scheduled-action

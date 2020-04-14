@@ -1,3 +1,0 @@
-list-collections
-list-faces
-list-stream-processors

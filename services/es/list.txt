@@ -1,4 +1,0 @@
-list-domain-names
-list-elasticsearch-instance-types
-list-elasticsearch-versions
-list-tags

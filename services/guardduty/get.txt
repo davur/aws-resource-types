@@ -1,9 +1,0 @@
-get-detector
-get-filter
-get-findings
-get-findings-statistics
-get-invitations-count
-get-ip-set
-get-master-account
-get-members
-get-threat-intel-set

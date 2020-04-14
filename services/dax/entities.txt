@@ -1,7 +1,7 @@
-clusters
-default-parameters
-events
-parameter-groups
-parameters
-subnet-groups
-tags
+cluster
+default-parameter
+event
+parameter
+parameter-group
+subnet-group
+tag

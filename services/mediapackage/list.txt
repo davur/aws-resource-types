@@ -1,3 +1,0 @@
-list-channels
-list-origin-endpoints
-list-tags-for-resource

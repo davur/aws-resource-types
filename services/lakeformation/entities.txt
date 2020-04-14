@@ -1,5 +1,4 @@
-data-lake-settings
+data-lake-setting
 effective-permissions-for-path
-permissions
+permission
 resource
-resources

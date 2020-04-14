@@ -1,9 +1,15 @@
 cost-and-usage
+cost-and-usage-with-resource
+cost-category-definition
 cost-forecast
-dimension-values
+dimension-value
 reservation-coverage
 reservation-purchase-recommendation
 reservation-utilization
 rightsizing-recommendation
-tags
+savings-plans-coverage
+savings-plans-purchase-recommendation
+savings-plans-utilization
+savings-plans-utilization-detail
+tag
 usage-forecast

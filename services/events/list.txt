@@ -1,8 +1,0 @@
-list-event-buses
-list-event-sources
-list-partner-event-source-accounts
-list-partner-event-sources
-list-rule-names-by-target
-list-rules
-list-tags-for-resource
-list-targets-by-rule

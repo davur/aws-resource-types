@@ -1,3 +1,0 @@
-list-domains
-list-operations
-list-tags-for-domain

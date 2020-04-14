@@ -1,3 +1,6 @@
+access-point
+access-point-policy
+access-point-policy-status
 job
-jobs
+job-tagging
 public-access-block

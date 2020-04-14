@@ -1,0 +1,13 @@
+available-managed-rule-group
+ip-set
+logging-configuration
+managed-rule-group
+permission-policy
+rate-based-statement-managed-key
+regex-pattern-set
+resources-for-web-acl
+rule-group
+sampled-request
+tags-for-resource
+web-acl
+web-acl-for-resource

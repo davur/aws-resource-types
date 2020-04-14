@@ -1,10 +1,7 @@
-activities
 activity
 activity-task
 execution
 execution-history
-executions
 state-machine
 state-machine-for-execution
-state-machines
 tags-for-resource

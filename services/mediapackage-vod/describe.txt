@@ -1,3 +1,0 @@
-describe-asset
-describe-packaging-configuration
-describe-packaging-group

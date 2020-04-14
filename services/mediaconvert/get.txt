@@ -1,4 +1,0 @@
-get-job
-get-job-template
-get-preset
-get-queue

@@ -1,5 +1,5 @@
-dead-letter-source-queues
-queue-attributes
-queue-tags
+dead-letter-source-queue
+queue
+queue-attribute
+queue-tag
 queue-url
-queues

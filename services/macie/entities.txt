@@ -1,2 +1,2 @@
-member-accounts
-s3-resources
+member-account
+s3-resource

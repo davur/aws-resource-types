@@ -1,6 +1,5 @@
 application-state
-created-artifacts
-discovered-resources
+created-artifact
+discovered-resource
 migration-task
-migration-tasks
-progress-update-streams
+progress-update-stream

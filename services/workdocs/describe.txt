@@ -1,9 +1,0 @@
-describe-activities
-describe-comments
-describe-document-versions
-describe-folder-contents
-describe-groups
-describe-notification-subscriptions
-describe-resource-permissions
-describe-root-folders
-describe-users

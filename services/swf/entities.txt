@@ -1,11 +1,8 @@
 activity-type
-activity-types
-closed-workflow-executions
+closed-workflow-execution
 domain
-domains
-open-workflow-executions
+open-workflow-execution
 tags-for-resource
 workflow-execution
 workflow-execution-history
 workflow-type
-workflow-types

@@ -1,7 +1,6 @@
 accelerator
-accelerator-attributes
-accelerators
+accelerator-attribute
+byoip-cidr
 endpoint-group
-endpoint-groups
 listener
-listeners
+tags-for-resource

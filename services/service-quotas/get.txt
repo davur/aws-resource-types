@@ -1,5 +1,0 @@
-get-association-for-service-quota-template
-get-aws-default-service-quota
-get-requested-service-quota-change
-get-service-quota
-get-service-quota-increase-request-from-template

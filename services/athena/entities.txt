@@ -1,8 +1,5 @@
-named-queries
 named-query
 query-execution
-query-executions
-query-results
+query-result
 tags-for-resource
 work-group
-work-groups

@@ -1,3 +1,0 @@
-list-dashboards
-list-metrics
-list-tags-for-resource

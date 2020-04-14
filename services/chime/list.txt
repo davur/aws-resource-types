@@ -1,7 +1,0 @@
-list-accounts
-list-bots
-list-phone-number-orders
-list-phone-numbers
-list-users
-list-voice-connector-termination-credentials
-list-voice-connectors

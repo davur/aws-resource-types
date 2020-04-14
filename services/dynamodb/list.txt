@@ -1,4 +1,0 @@
-list-backups
-list-global-tables
-list-tables
-list-tags-of-resource

@@ -1,4 +1,0 @@
-describe-alarm-history
-describe-alarms
-describe-alarms-for-metric
-describe-anomaly-detectors

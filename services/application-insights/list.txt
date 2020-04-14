@@ -1,3 +1,0 @@
-list-applications
-list-components
-list-problems

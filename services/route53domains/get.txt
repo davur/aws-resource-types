@@ -1,4 +1,0 @@
-get-contact-reachability-status
-get-domain-detail
-get-domain-suggestions
-get-operation-detail

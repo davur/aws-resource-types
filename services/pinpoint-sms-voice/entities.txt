@@ -1,1 +1,1 @@
-configuration-set-event-destinations
+configuration-set-event-destination

@@ -1,3 +1,0 @@
-describe-hapg
-describe-hsm
-describe-luna-client

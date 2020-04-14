@@ -1,7 +1,5 @@
 project
-projects
-resources
+resource
 tags-for-project
-team-members
+team-member
 user-profile
-user-profiles

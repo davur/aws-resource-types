@@ -1,2 +1,2 @@
 job-execution
-pending-job-executions
+pending-job-execution

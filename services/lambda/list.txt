@@ -1,7 +1,0 @@
-list-aliases
-list-event-source-mappings
-list-functions
-list-layer-versions
-list-layers
-list-tags
-list-versions-by-function

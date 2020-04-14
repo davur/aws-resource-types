@@ -1,3 +1,0 @@
-get-block
-get-digest
-get-revision

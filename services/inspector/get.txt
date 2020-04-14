@@ -1,3 +1,0 @@
-get-assessment-report
-get-exclusions-preview
-get-telemetry-metadata

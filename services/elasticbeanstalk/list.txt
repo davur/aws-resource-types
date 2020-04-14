@@ -1,3 +1,0 @@
-list-available-solution-stacks
-list-platform-versions
-list-tags-for-resource

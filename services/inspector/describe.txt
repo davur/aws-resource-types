@@ -1,8 +1,0 @@
-describe-assessment-runs
-describe-assessment-targets
-describe-assessment-templates
-describe-cross-account-access-role
-describe-exclusions
-describe-findings
-describe-resource-groups
-describe-rules-packages

@@ -1,9 +1,6 @@
 resolver-endpoint
-resolver-endpoint-ip-addresses
-resolver-endpoints
+resolver-endpoint-ip-address
 resolver-rule
 resolver-rule-association
-resolver-rule-associations
 resolver-rule-policy
-resolver-rules
 tags-for-resource

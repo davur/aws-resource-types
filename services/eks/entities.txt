@@ -1,6 +1,6 @@
 cluster
-clusters
+fargate-profile
+nodegroup
 tags-for-resource
 token
 update
-updates

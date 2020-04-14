@@ -1,4 +1,0 @@
-describe-compute-environments
-describe-job-definitions
-describe-job-queues
-describe-jobs

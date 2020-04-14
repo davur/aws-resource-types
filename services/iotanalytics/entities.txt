@@ -1,12 +1,7 @@
 channel
-channels
 dataset
 dataset-content
-dataset-contents
-datasets
 datastore
-datastores
-logging-options
+logging-option
 pipeline
-pipelines
 tags-for-resource

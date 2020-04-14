@@ -1,5 +1,6 @@
-event-selectors
-public-keys
-tags
+event-selector
+insight-selector
+public-key
+tag
+trail
 trail-status
-trails

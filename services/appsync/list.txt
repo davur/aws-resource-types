@@ -1,8 +1,0 @@
-list-api-keys
-list-data-sources
-list-functions
-list-graphql-apis
-list-resolvers
-list-resolvers-by-function
-list-tags-for-resource
-list-types

@@ -1,4 +1,3 @@
-entitlements
+entitlement
 flow
-flows
 tags-for-resource

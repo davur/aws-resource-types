@@ -1,11 +1,6 @@
 mesh
-meshes
 route
-routes
 tags-for-resource
 virtual-node
-virtual-nodes
 virtual-router
-virtual-routers
 virtual-service
-virtual-services

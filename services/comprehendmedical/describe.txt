@@ -1,2 +1,0 @@
-describe-entities-detection-v2-job
-describe-phi-detection-job

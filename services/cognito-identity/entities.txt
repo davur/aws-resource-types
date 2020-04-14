@@ -1,10 +1,8 @@
 credentials-for-identity
 id
-identities
 identity
 identity-pool
-identity-pool-roles
-identity-pools
+identity-pool-role
 open-id-token
 open-id-token-for-developer-identity
 tags-for-resource

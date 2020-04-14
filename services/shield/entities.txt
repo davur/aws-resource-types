@@ -1,8 +1,6 @@
 attack
-attacks
-drt-access
-emergency-contact-settings
+drt-acces
+emergency-contact-setting
 protection
-protections
 subscription
 subscription-state

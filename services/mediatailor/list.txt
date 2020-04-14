@@ -1,2 +1,0 @@
-list-playback-configurations
-list-tags-for-resource

@@ -1,2 +1,0 @@
-list-certificates
-list-tags-for-certificate

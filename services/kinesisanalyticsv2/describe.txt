@@ -1,2 +1,0 @@
-describe-application
-describe-application-snapshot

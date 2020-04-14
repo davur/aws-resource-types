@@ -1,2 +1,0 @@
-get-directory-limits
-get-snapshot-limits

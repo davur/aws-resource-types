@@ -1,5 +1,3 @@
 server
-servers
 tags-for-resource
 user
-users

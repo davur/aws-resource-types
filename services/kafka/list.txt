@@ -1,6 +1,0 @@
-list-cluster-operations
-list-clusters
-list-configuration-revisions
-list-configurations
-list-nodes
-list-tags-for-resource

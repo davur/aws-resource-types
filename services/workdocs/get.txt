@@ -1,7 +1,0 @@
-get-current-user
-get-document
-get-document-path
-get-document-version
-get-folder
-get-folder-path
-get-resources

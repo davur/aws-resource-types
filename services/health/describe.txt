@@ -1,6 +1,0 @@
-describe-affected-entities
-describe-entity-aggregates
-describe-event-aggregates
-describe-event-details
-describe-event-types
-describe-events

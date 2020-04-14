@@ -1,4 +1,0 @@
-describe-accelerator
-describe-accelerator-attributes
-describe-endpoint-group
-describe-listener

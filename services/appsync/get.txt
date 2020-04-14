@@ -1,7 +1,0 @@
-get-data-source
-get-function
-get-graphql-api
-get-introspection-schema
-get-resolver
-get-schema-creation-status
-get-type

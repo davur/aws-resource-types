@@ -1,0 +1,8 @@
+code-binding
+code-binding-source
+discovered-schema
+discoverer
+registry
+schema
+schema-version
+tags-for-resource

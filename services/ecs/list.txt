@@ -1,9 +1,0 @@
-list-account-settings
-list-attributes
-list-clusters
-list-container-instances
-list-services
-list-tags-for-resource
-list-task-definition-families
-list-task-definitions
-list-tasks

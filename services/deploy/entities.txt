@@ -1,16 +1,9 @@
 application
 application-revision
-application-revisions
-applications
 deployment
 deployment-config
-deployment-configs
 deployment-group
-deployment-groups
 deployment-target
-deployment-targets
-deployments
-git-hub-account-token-names
+git-hub-account-token-name
 on-premises-instance
-on-premises-instances
 tags-for-resource

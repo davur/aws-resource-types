@@ -1,0 +1,13 @@
+account
+blacklist-report
+configuration-set
+configuration-set-event-destination
+dedicated-ip
+dedicated-ip-pool
+deliverability-dashboard-option
+deliverability-test-report
+domain-deliverability-campaign
+domain-statistics-report
+email-identity
+suppressed-destination
+tags-for-resource

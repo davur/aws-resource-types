@@ -1,2 +1,0 @@
-describe-bundle
-describe-project

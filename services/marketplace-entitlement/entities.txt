@@ -1,1 +1,1 @@
-entitlements
+entitlement

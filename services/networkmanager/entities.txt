@@ -1,0 +1,8 @@
+customer-gateway-association
+device
+global-network
+link
+link-association
+site
+tags-for-resource
+transit-gateway-registration

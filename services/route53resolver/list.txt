@@ -1,5 +1,0 @@
-list-resolver-endpoint-ip-addresses
-list-resolver-endpoints
-list-resolver-rule-associations
-list-resolver-rules
-list-tags-for-resource

@@ -1,8 +1,0 @@
-get-applied-schema-version
-get-directory
-get-facet
-get-link-attributes
-get-object-attributes
-get-object-information
-get-schema-as-json
-get-typed-link-facet-information

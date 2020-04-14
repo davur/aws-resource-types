@@ -1,4 +1,0 @@
-get-batch-prediction
-get-data-source
-get-evaluation
-get-ml-model

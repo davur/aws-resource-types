@@ -1,9 +1,9 @@
 attachment
-cases
-communications
-services
-severity-levels
-trusted-advisor-check-refresh-statuses
+case
+communication
+service
+severity-level
+trusted-advisor-check
+trusted-advisor-check-refresh-status
 trusted-advisor-check-result
-trusted-advisor-check-summaries
-trusted-advisor-checks
+trusted-advisor-check-summary

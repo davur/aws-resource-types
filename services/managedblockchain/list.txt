@@ -1,6 +1,0 @@
-list-invitations
-list-members
-list-networks
-list-nodes
-list-proposal-votes
-list-proposals

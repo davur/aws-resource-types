@@ -1,7 +1,0 @@
-get-celebrity-info
-get-celebrity-recognition
-get-content-moderation
-get-face-detection
-get-face-search
-get-label-detection
-get-person-tracking

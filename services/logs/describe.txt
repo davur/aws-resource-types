@@ -1,8 +1,0 @@
-describe-destinations
-describe-export-tasks
-describe-log-groups
-describe-log-streams
-describe-metric-filters
-describe-queries
-describe-resource-policies
-describe-subscription-filters

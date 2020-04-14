@@ -1,3 +1,0 @@
-list-accelerators
-list-endpoint-groups
-list-listeners

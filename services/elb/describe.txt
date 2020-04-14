@@ -1,7 +1,0 @@
-describe-account-limits
-describe-instance-health
-describe-load-balancer-attributes
-describe-load-balancer-policies
-describe-load-balancer-policy-types
-describe-load-balancers
-describe-tags

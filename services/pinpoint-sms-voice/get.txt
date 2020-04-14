@@ -1,1 +1,0 @@
-get-configuration-set-event-destinations

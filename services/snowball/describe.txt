@@ -1,4 +1,0 @@
-describe-address
-describe-addresses
-describe-cluster
-describe-job

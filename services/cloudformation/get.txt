@@ -1,3 +1,0 @@
-get-stack-policy
-get-template
-get-template-summary

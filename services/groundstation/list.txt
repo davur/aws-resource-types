@@ -1,7 +1,0 @@
-list-configs
-list-contacts
-list-dataflow-endpoint-groups
-list-ground-stations
-list-mission-profiles
-list-satellites
-list-tags-for-resource

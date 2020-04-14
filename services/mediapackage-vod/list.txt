@@ -1,3 +1,0 @@
-list-assets
-list-packaging-configurations
-list-packaging-groups

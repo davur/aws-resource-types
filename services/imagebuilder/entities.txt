@@ -1,0 +1,13 @@
+component
+component-build-version
+component-policy
+distribution-configuration
+image
+image-build-version
+image-pipeline
+image-pipeline-image
+image-policy
+image-recipe
+image-recipe-policy
+infrastructure-configuration
+tags-for-resource

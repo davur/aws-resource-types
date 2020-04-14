@@ -1,4 +1,0 @@
-describe-cluster
-describe-cluster-operation
-describe-configuration
-describe-configuration-revision

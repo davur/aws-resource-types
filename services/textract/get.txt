@@ -1,2 +1,0 @@
-get-document-analysis
-get-document-text-detection

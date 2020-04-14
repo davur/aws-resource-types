@@ -1,3 +1,0 @@
-list-aggregate-discovered-resources
-list-discovered-resources
-list-tags-for-resource

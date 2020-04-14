@@ -1,8 +1,0 @@
-get-entities
-get-flow-template
-get-flow-template-revisions
-get-namespace-deletion-status
-get-system-instance
-get-system-template
-get-system-template-revisions
-get-upload-status

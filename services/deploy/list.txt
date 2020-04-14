@@ -1,9 +1,0 @@
-list-application-revisions
-list-applications
-list-deployment-configs
-list-deployment-groups
-list-deployment-targets
-list-deployments
-list-git-hub-account-token-names
-list-on-premises-instances
-list-tags-for-resource

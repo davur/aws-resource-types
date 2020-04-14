@@ -2,19 +2,47 @@
 
 aws help | sed -ne '/acm/,$ p' | grep 'o ' | grep -v topics | awk '{ print $2 }' > ./services.txt
 
-# cat services.txt | while read s; do echo $s; mkdir -p ./services/$s; for m in get describe list; do echo "- $m"; aws $s help | grep "o $m-" | awk '{ print $2 }' > ./services/$s/$m.txt; done; cat ./services/$s/{get,list,describe}.txt | sed -e 's/^[a-z]*-//' | sort -u > ./services/$s/entities.txt; done
-
 while read s; do
 	echo $s
 	mkdir -p ./services/$s
 	
-	for m in get describe list; do
-		echo "- $m"
-		aws $s help | grep "o $m-" | awk '{ print $2 }' > "./services/$s/$m.txt"
-	done
+	tmpfile="./services/$s/temp.txt"
+	rm $tmpfile
+	aws $s help | grep -E "o (get|describe|list)-" | awk '{ print $2 }' >> "$tmpfile"
 
-	cat ./services/$s/{get,list,describe}.txt | sed -e 's/^[a-z]*-//' | sort -u > ./services/$s/entities.txt
+	echo -n "" > ./services/$s/entities.txt
+	subcommands=$(<./services/$s/temp.txt)
+	
+	while read -r subcommand;
+	do
+		entity=${subcommand#*-}
+		if [[ $entity == *statuses ]] || \
+		   [[ $entity == *addresses ]] || \
+		   [[ $entity == *aliases ]] || \
+		   [[ $entity == *buses ]] || \
+		   [[ $entity == *meshes ]] || \
+		   [[ $entity == *branches ]];
+		then
+			entity="${entity%??}"
+		elif [[ $entity == *status ]] || \
+             [[ $entity == *address ]] || \
+             [[ $entity == *alias ]] || \
+             [[ $entity == *bus ]] || \
+             [[ $entity == *-nfs ]] || \
+             [[ $entity == *-efs ]];
+		then
+			: # PASS
+		elif [[ $entity == *ies ]];
+		then
+			entity="${entity%???}y"
+		elif [[ $entity == *s ]];
+		then
+			entity="${entity%?}"
+		fi 
+		echo "$entity" >> "./services/$s/entities.txt"
+	done < "$tmpfile"
+
+	sort -u -o "./services/$s/entities.txt" "./services/$s/entities.txt"
+	# cat ./services/$s/{get,list,describe}.txt | sed -e 's/^[a-z]*-//' | sort -u > ./services/$s/entities.txt
 done < ./services.txt
-
-# services=$(<./services.txt)
 

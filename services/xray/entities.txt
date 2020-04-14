@@ -1,10 +1,9 @@
 encryption-config
 group
-groups
-sampling-rules
-sampling-statistic-summaries
-sampling-targets
+sampling-rule
+sampling-statistic-summary
+sampling-target
 service-graph
-time-series-service-statistics
+time-series-service-statistic
 trace-graph
-trace-summaries
+trace-summary

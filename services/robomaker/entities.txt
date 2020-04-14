@@ -1,13 +1,9 @@
 deployment-job
-deployment-jobs
 fleet
-fleets
 robot
 robot-application
-robot-applications
-robots
 simulation-application
-simulation-applications
 simulation-job
-simulation-jobs
+simulation-job-batch
+simulation-job-batche
 tags-for-resource

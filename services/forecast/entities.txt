@@ -1,13 +1,7 @@
-accuracy-metrics
+accuracy-metric
 dataset
 dataset-group
-dataset-groups
 dataset-import-job
-dataset-import-jobs
-datasets
 forecast
 forecast-export-job
-forecast-export-jobs
-forecasts
 predictor
-predictors

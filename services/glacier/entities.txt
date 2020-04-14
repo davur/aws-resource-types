@@ -1,13 +1,11 @@
 data-retrieval-policy
 job
 job-output
-jobs
-multipart-uploads
-parts
+multipart-upload
+part
 provisioned-capacity
 tags-for-vault
 vault
 vault-access-policy
 vault-lock
-vault-notifications
-vaults
+vault-notification

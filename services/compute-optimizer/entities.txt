@@ -1,0 +1,5 @@
+auto-scaling-group-recommendation
+ec2-instance-recommendation
+ec2-recommendation-projected-metric
+enrollment-status
+recommendation-summary

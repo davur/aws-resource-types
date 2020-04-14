@@ -1,0 +1,7 @@
+asset
+data-set
+data-set-revision
+job
+revision
+revision-asset
+tags-for-resource

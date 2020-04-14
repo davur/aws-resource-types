@@ -1,3 +1,0 @@
-list-servers
-list-tags-for-resource
-list-users

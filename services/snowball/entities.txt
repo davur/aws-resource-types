@@ -1,11 +1,9 @@
 address
-addresses
 cluster
-cluster-jobs
-clusters
-compatible-images
+cluster-job
+compatible-image
 job
 job-manifest
 job-unlock-code
-jobs
 snowball-usage
+software-update

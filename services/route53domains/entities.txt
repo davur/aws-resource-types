@@ -1,7 +1,7 @@
 contact-reachability-status
+domain
 domain-detail
-domain-suggestions
-domains
+domain-suggestion
+operation
 operation-detail
-operations
 tags-for-domain

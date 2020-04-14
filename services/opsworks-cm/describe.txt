@@ -1,5 +1,0 @@
-describe-account-attributes
-describe-backups
-describe-events
-describe-node-association-status
-describe-servers

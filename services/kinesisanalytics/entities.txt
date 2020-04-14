@@ -1,3 +1,2 @@
 application
-applications
 tags-for-resource

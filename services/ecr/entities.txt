@@ -1,9 +1,11 @@
 authorization-token
 download-url-for-layer
-images
+image
+image-scan-finding
 lifecycle-policy
 lifecycle-policy-preview
 login
-repositories
+login-password
+repository
 repository-policy
 tags-for-resource
